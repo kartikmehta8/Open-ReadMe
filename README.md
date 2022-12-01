@@ -73,7 +73,7 @@ Technology Stack
 Contribution Graph
 -->
 <p align="center">
-<br /><img src="https://activity-graph.herokuapp.com/graph?username=kartikmehta&theme=github" alt="KM" />
+<br /><img src="https://activity-graph.herokuapp.com/graph?username=kartikmehta8&theme=github" alt="KM" />
 </p>
 
 
